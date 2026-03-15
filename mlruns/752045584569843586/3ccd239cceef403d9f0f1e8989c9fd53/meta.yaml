@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kusha/Desktop/Comment_Sentiment_Analysis/mlruns/752045584569843586/3ccd239cceef403d9f0f1e8989c9fd53/artifacts
+end_time: 1773208436389
+entry_point_name: ''
+experiment_id: '752045584569843586'
+lifecycle_stage: active
+run_id: 3ccd239cceef403d9f0f1e8989c9fd53
+run_name: painted-gnu-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773208397611
+status: 3
+tags: []
+user_id: kusha
