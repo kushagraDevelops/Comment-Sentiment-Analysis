@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/kusha/Desktop/Comment_Sentiment_Analysis/mlruns/752045584569843586/models/m-d0245a93d0e6407d81e92a5e876261c2/artifacts
+creation_timestamp: 1774177419280
+experiment_id: '752045584569843586'
+last_updated_timestamp: 1774177438687
+model_id: m-d0245a93d0e6407d81e92a5e876261c2
+model_type: null
+name: lgbm_model
+source_run_id: a4b9dc01e9a84e9dbbcab983d13fe8fa
+status: 2
+status_message: null

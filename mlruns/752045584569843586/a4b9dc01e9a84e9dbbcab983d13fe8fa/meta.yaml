@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kusha/Desktop/Comment_Sentiment_Analysis/mlruns/752045584569843586/a4b9dc01e9a84e9dbbcab983d13fe8fa/artifacts
+end_time: 1774177440625
+entry_point_name: ''
+experiment_id: '752045584569843586'
+lifecycle_stage: active
+run_id: a4b9dc01e9a84e9dbbcab983d13fe8fa
+run_name: stylish-hound-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774177416755
+status: 3
+tags: []
+user_id: kusha
